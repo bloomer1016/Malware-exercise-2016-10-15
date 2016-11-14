@@ -1,0 +1,73 @@
+------------------------------------------------------------------------
+Count:5 Event#8.1634 2016-10-14 22:14:42 UTC
+ET CURRENT_EVENTS Evil Redirector Leading to EK Jul 12 2016
+50.56.223.21 -> 10.14.106.192
+IPVer=4 hlen=5 tos=0 dlen=1361 ID=0 flags=0 offset=0 ttl=0 chksum=12172
+Protocol: 6 sport=80 -> dport=49450
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=35823 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#8.1639 2016-10-14 22:14:45 UTC
+ET CURRENT_EVENTS RIG Landing URI Struct March 20 2015
+10.14.106.192 -> 109.234.36.251
+IPVer=4 hlen=5 tos=0 dlen=503 ID=0 flags=0 offset=0 ttl=0 chksum=45390
+Protocol: 6 sport=49467 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=4549 chksum=0
+------------------------------------------------------------------------
+Count:7 Event#8.1640 2016-10-14 22:14:46 UTC
+ET CURRENT_EVENTS RIG EK Landing Sep 12 2016 T2
+109.234.36.251 -> 10.14.106.192
+IPVer=4 hlen=5 tos=0 dlen=1361 ID=0 flags=0 offset=0 ttl=0 chksum=44532
+Protocol: 6 sport=80 -> dport=49467
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=56031 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#8.1647 2016-10-14 22:14:46 UTC
+ET CURRENT_EVENTS RIG Exploit URI Struct March 20 2015
+10.14.106.192 -> 109.234.36.251
+IPVer=4 hlen=5 tos=0 dlen=698 ID=0 flags=0 offset=0 ttl=0 chksum=45195
+Protocol: 6 sport=49467 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=15636 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#8.1652 2016-10-14 22:14:49 UTC
+ET CURRENT_EVENTS RIG Payload URI Struct March 20 2015
+10.14.106.192 -> 109.234.36.251
+IPVer=4 hlen=5 tos=0 dlen=522 ID=0 flags=0 offset=0 ttl=0 chksum=45371
+Protocol: 6 sport=49471 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=31621 chksum=0
+------------------------------------------------------------------------
+Count:10 Event#8.1653 2016-10-14 22:14:50 UTC
+ETPRO CURRENT_EVENTS RIG/Sundown/Xer EK Payload Jul 06 2016 M2
+109.234.36.251 -> 10.14.106.192
+IPVer=4 hlen=5 tos=0 dlen=1361 ID=0 flags=0 offset=0 ttl=0 chksum=44532
+Protocol: 6 sport=80 -> dport=49471
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=43975 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#8.1665 2016-10-14 22:15:22 UTC
+ETPRO TROJAN Ransomware/Cerber Checkin 2
+10.14.106.192 -> 31.184.234.0
+IPVer=4 hlen=5 tos=0 dlen=37 ID=7987 flags=0 offset=0 ttl=127 chksum=40462
+Protocol: 17 sport=62374 -> dport=6892
+
+len=17 chksum=15442
+------------------------------------------------------------------------
+Count:11 Event#8.1669 2016-10-14 22:14:46 UTC
+ETPRO CURRENT_EVENTS RIG EK Flash Exploit Mar 29 2016
+109.234.36.251 -> 10.14.106.192
+IPVer=4 hlen=5 tos=0 dlen=1361 ID=0 flags=0 offset=0 ttl=0 chksum=44532
+Protocol: 6 sport=80 -> dport=49467
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=12111 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#8.1693 2016-10-14 22:17:03 UTC
+ET CNC Ransomware Tracker Reported CnC Server group 19
+10.14.106.192 -> 173.254.231.111
+IPVer=4 hlen=5 tos=0 dlen=52 ID=11479 flags=2 offset=0 ttl=127 chksum=50352
+Protocol: 6 sport=49520 -> dport=80
+
+Seq=2228766067 Ack=0 Off=8 Res=0 Flags=******S* Win=8192 urp=47303 chksum=0
+
